@@ -1,4 +1,4 @@
-package task3.payment.employee;
+package task3.employee;
 
 public class Employee {
 	 String name;
