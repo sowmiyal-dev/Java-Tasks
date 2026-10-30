@@ -1,4 +1,4 @@
-package task3.payment.studenet;
+package task3.student;
 
 public class Student {
 	    String name;

@@ -1,4 +1,4 @@
-package task3.payment.bank;
+package task3.bank;
 
 public class Bankmain {
     public static void main(String[] args) {
