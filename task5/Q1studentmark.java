@@ -8,7 +8,8 @@ public class Q1studentmark {
         Scanner sc = new Scanner(System.in);
         int[] marks = new int[10];
         int total = 0, pass = 0, fail = 0;
- 
+        
+
         for (int i = 0; i < 10; i++) {
             System.out.print("Enter mark: ");
             marks[i] = sc.nextInt();
@@ -18,6 +19,7 @@ public class Q1studentmark {
         int lowest = marks[0];
  
         System.out.println("Student Marks:");
+        
         for (int i = 0; i < 10; i++) {
             System.out.println(marks[i]);
  
