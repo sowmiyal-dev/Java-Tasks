@@ -10,7 +10,7 @@ public class Dbconnection {
 	String username="root";
 	String password="Sowmi2603";
 
-	public Connection dbconnection() {
+	public Connection dbconnection(){
 		Connection conn= null;
 		try {
 			conn=DriverManager.getConnection(url, username, password);
